@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+joblib
+flask
+flask-cors
+matplotlib
+seaborn
+openai==0.28.0
